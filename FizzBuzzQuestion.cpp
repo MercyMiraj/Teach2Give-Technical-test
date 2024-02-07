@@ -3,7 +3,7 @@ multiples of 5, print "Buzz"; and for numbers that are multiples of both 3 and 5
 "FizzBuzz".*/
 
 
-//SOLUTION IN C LANGUAGE//
+//SOLUTION IN C LANGUAGE
 
 #include <stdio.h>
 int main () {
