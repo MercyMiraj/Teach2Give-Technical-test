@@ -1,6 +1,6 @@
-//Write a program to generate the Fibonacci sequence up to 100.//
+//Write a program to generate the Fibonacci sequence up to 100.
 
-//SOLUTION IN C//
+//SOLUTION IN C
 
 #include <stdio.h>
 int main ()
